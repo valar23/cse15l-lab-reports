@@ -19,3 +19,8 @@ first lab report!!!
 # code block
 print '3 backticks or'
 print 'indent 4 spaces'
+
+i'm editing in VScode
+shows on the right
+which is greate 
+**make this bold**
