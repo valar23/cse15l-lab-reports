@@ -24,3 +24,8 @@ i'm editing in VScode
 shows on the right
 which is greate 
 **make this bold**
+
+
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://2680991462.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
