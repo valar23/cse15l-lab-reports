@@ -50,7 +50,7 @@ and successfully connected to the server!
 
 ## Optimizing Remote Running
 
-* This command will send a copy of the file to the server, logs into the server, execute the javac and java command in the same line. with saves a lot of work. 
+* This command will first send a copy of the file to the server, then logs into the server, and execute the javac and java command in the same line. which saves a lot of work. 
 
 ![Image](7.PNG)
 
