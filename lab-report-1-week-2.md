@@ -1,3 +1,9 @@
-create 
+# Lab report for week 1-2
 
-![Image](3.PNG)
+## Installing VScode
+becasue I took CSE11 last quarter, VScode was installed in advance
+![Image](1.PNG)
+
+
+## Remotely Connecting
+
