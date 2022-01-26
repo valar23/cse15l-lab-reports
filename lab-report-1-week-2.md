@@ -11,7 +11,7 @@
 
 * I download and Installed [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) (The link that helped you to Install OpenSSH)
 * Find my course-specific account for CSE15L
-* I entered the command like this `ssh cs15lwi22apn@ieng6.ucsd.edu`
+* I entered the command like this ```ssh cs15lwi22apn@ieng6.ucsd.edu```
 and successfully connected to the server!
 ![Image](2.PNG)
 
