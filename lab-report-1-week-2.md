@@ -51,7 +51,9 @@ and successfully connected to the server!
 
 ## Optimizing Remote Running
 
-* This command will first send a copy of the file to the server, then logs into the server, and execute the javac and java command in the same line. which saves a lot of work. 
+* This command will first send a copy of the file to the server, then logs into the server, and execute the javac and java command in the same line.
+* To run this one line command, I typed in the command with 113 keystrokes and 1 mouse clicks.
+* However, if I try to run the command separately in different lines, I typed with 150 keystrokes and 6 mouse clicks, which means running in one line saves a lot of work.
 
 ![Image](7.PNG)
 
