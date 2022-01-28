@@ -30,6 +30,8 @@
 * Here's a [A Link to the test file](https://2680991462.github.io/cse15l-lab-reports/test-file11.md)
 ![Image2](3s.PNG)
 
-* The code didn't consider the situation when there's not link in this file at all.
-* The bug that caused this symptom is not checking if there's a ! in front of the first [ that could change the line into a image instead of a link.
+* The code didn't consider the situation when there's no link in this file at all.
+* The bug that caused this symptom is not checking if if the code can find the first OpenBracket
+* when there's no Open Bracket, 'nextOpenBracket' will just be -1 and cause the while loop to run infinitely.
+* Threfore, From the screenshot above, we can see that it caused a 'out of memory error'.
 
