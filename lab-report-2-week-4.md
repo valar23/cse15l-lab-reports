@@ -23,7 +23,7 @@
 * The bug that caused this symptom is not checking if there's a ! in front of the first [ that could change the line into a image instead of a link.
 * Therefore, From the screenshot above, we can see that it prints an output that is a reference to an image, which should not be recognized as a Link.
 
-
+---
 ## Third code Change
 * screenshot of the third code change
 ![Image3](3c.PNG)
