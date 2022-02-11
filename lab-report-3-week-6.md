@@ -8,11 +8,13 @@
 2. copy and paste the code from week 5 lab tasks.
 3. change the user name to my own user name.
 4. add a line to refer to my ssh key file.
+
 ---
 ## The `ssh` command
 ![Image1](13.jpg)
 * The screenshot above is the output after I typed `ssh ieng6` in the terminal.
 * We can see that iI can login to my server without typing my username.
+
 ---
 ## The `scp` command
 ![Image1](14.jpg)
