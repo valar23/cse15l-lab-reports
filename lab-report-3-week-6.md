@@ -1,5 +1,8 @@
 # Lab report for week 5-6
 ---
+## Link to index
+[Link to other lab report](https://2680991462.github.io/cse15l-lab-reports/index)
+---
 ## My `.ssh/config` file
 ![Image1](12.jpg)
 * The screenshot above is the config file I created.
