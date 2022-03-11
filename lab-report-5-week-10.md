@@ -9,7 +9,7 @@
 * I did this diff check in lab 9
 * I saved my output result using the command `bash script.sh > results-own.txt`
 * I saved the output from the review implementation using the command `bash script.sh > results-review.txt`
-* After I moved the two txt file into the same directory I used the command `diff results-review.txt results-own.txt`
+* After I moved the two txt file into the same directory I used the command `diff results-own.txt results-review.txt`
 
 ---
 ## Test case 487
