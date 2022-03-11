@@ -11,7 +11,7 @@
 * I saved the output from the review implementation using the command `bash script.sh > results-review.txt`
 * After I moved the two txt file into the same directory I used the command `diff results-review.txt results-own.txt`
 
-
+---
 ## Test case 487
 ![Image1](diff2.PNG)
 * This difference results from test case 488
@@ -23,6 +23,7 @@
 * Therefore, I can add a if statement to check if there's space between `(` and `)` 
 * if there is I should consider this as a invalid link.
 
+---
 ## Test case 577
 ![Image1](diff1.PNG)
 * This difference results from test case 577
